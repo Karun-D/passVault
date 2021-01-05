@@ -1,5 +1,5 @@
 <!-- PROJECT Title -->
-# Semi-automated Transactions
+# passVault - a Slack App
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
