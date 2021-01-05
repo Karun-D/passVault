@@ -8,6 +8,9 @@ This program was built to learn how to create and deploy a Slack App. This is a 
 
 The motivation behind this project is to use Slack as a ready-made frontend (a command terminal in your pocket) that can be accessed on both mobile and desktop with a Slack Account. The app is hosted on Heroku to complement this idea.
 
+# Demo
+![](demo.gif)
+
 ### Built With
 
 * Python
