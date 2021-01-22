@@ -38,4 +38,4 @@ Send the following command as a direct message to the passVault bot. The bot wil
 <!-- ROADMAP -->
 ## Future Plans
 
-1. Substitue the password program with a much more useful design.
+1. substitute the password program with a much more useful design.
